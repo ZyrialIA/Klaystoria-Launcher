@@ -1,7 +1,7 @@
 {
     "name": "Klaystoria-Launcher",
     "preductname": "Klaystoria Launcher",
-    "version": "1.0.0",
+    "version": "0.0.0",
     "description": "Launcher Mincraft pour le serveur Klaystoria",
     "main": "src/app.js",
     "author": {
